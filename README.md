@@ -15,9 +15,9 @@ Aspiring AI & ML Engineer | CSE (AI Track) Candidate | Building projects & writi
 - **Other:** Problem Solving, Technical Writing  
 
 ## 📂 Projects
-### 🔹 AI Project 1 — *Your project name*
+### 🔹 AI Project 1 — *energy consumption predictor*
 Short description  
-👉 [GitHub Repo Link]
+👉 [Energy-consumption-predictor]
 
 ### 🔹 AI Project 2 — *Your project name*
 Short description  
