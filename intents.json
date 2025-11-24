@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+      "responses": ["Hello!", "Hi there!", "Hey, how can I help you?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "see you", "goodbye"],
+      "responses": ["Goodbye!", "See you later!", "Bye! Take care!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thanks", "thank you"],
+      "responses": ["You're welcome!", "Anytime!"]
+    },
+    {
+      "tag": "study",
+      "patterns": ["give me study tips", "how to study", "improve learning"],
+      "responses": ["Try to study 45 mins and take 10 min breaks!", "Revise after learning!"]
+    }
+  ]
+}
