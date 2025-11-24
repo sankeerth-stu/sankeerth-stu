@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Sankeerth  
+Aspiring AI & ML Engineer | CSE (AI Track) Candidate | Building projects & writing about technology  
 
-<!--
-**sankeerth-stu/sankeerth-stu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 Working on AI/ML projects  
+- 🧠 Strong in Math, Physics, and Coding  
+- ✍️ Published articles on AI & technology  
+- 💻 Building my portfolio for GKS & University Track  
+- 🌱 Focus areas: Machine Learning, Neural Networks, Data Science  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Python, C, Java (basics)  
+- **AI/ML:** Numpy, Pandas, Matplotlib, Scikit-learn  
+- **Tools:** Git, GitHub, Google Colab  
+- **Other:** Problem Solving, Technical Writing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+### 🔹 AI Project 1 — *Your project name*
+Short description  
+👉 [GitHub Repo Link]
+
+### 🔹 AI Project 2 — *Your project name*
+Short description  
+👉 [GitHub Repo Link]
+
+### 🔹 AI Project 3 — *Your project name*
+Short description  
+👉 [GitHub Repo Link]
+
+## 📝 Articles
+- [Article 1 Title](link)  
+- [Article 2 Title](link)  
+- [Article 3 Title](link)  
+
+## 🎯 Current Goals
+- Complete AI/ML certifications  
+- Build more AI projects  
+- Strengthen portfolio for GKS University Track  
+
+## 🌐 Connect With Me
+- **LinkedIn:** link coming soon 
+- **Medium:**  link coming soon 
+- **GitHub:** You’re already here 😄  
+
+Thanks for visiting! 🚀
