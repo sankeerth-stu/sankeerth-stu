@@ -39,7 +39,7 @@ Short description
 
 ## 🌐 Connect With Me
 - **LinkedIn:** link coming soon 
-- **Medium:**  link coming soon 
+- **Medium:**  https://medium.com/@sankeerthvip 
 - **GitHub:** You’re already here 😄  
 
 Thanks for visiting! 🚀
