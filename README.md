@@ -15,17 +15,17 @@ Aspiring AI & ML Engineer | CSE (AI Track) Candidate | Building projects & writi
 - **Other:** Problem Solving, Technical Writing  
 
 ## 📂 Projects
-### 🔹 AI Project 1 — *energy consumption predictor*
-Short description  
-👉 [Energy-consumption-predictor]
+### 🔹 AI Project 1 — *energy consumption predictor*  
+👉 [https://github.com/sankeerth-stu/sankeerth-stu/tree/Energy-consumption-predictor]
 
-### 🔹 AI Project 2 — *Your project name*
-Short description  
-👉 [GitHub Repo Link]
+### 🔹 AI Project 2 — *Ai student performance predictor* 
+👉 [https://github.com/sankeerth-stu/sankeerth-stu/tree/Ai-student-performance-predictor]
 
-### 🔹 AI Project 3 — *Your project name*
-Short description  
-👉 [GitHub Repo Link]
+### 🔹 AI Project 3 — *Ai chatbot* 
+👉 [https://github.com/sankeerth-stu/sankeerth-stu/tree/Ai-chatbot]
+
+### 🔹 AI Project 4 - *Ai career adviser*
+👉 .[https://github.com/sankeerth-stu/sankeerth-stu/tree/Ai-career-adviser].
 
 ## 📝 Articles
 - [why i sharted learning ai as a teen and how it changed my view of the future](https://medium.com/@sankeerthvip/why-i-started-learning-ai-as-a-teen-and-how-it-changed-my-view-of-the-future-7016fdc759bc)  
@@ -35,7 +35,7 @@ Short description
 ## 🎯 Current Goals
 - Complete AI/ML certifications  
 - Build more AI projects  
-- Strengthen portfolio for GKS University Track  
+- Strengthen portfolio for GKS University Track specifically for KOREATECH UNIVERSITY 
 
 ## 🌐 Connect With Me
 - **LinkedIn:** link coming soon 
