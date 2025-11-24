@@ -1,45 +1,27 @@
-# 👋 Hi, I'm Sankeerth  
-Aspiring AI & ML Engineer | CSE (AI Track) Candidate | Building projects & writing about technology  
+# AI Student Performance Predictor (Beginner-Friendly ML Project)
+A simple and clean Machine Learning project that predicts a student's expected academic performance using basic lifestyle and study-related features.
 
-## 🚀 About Me
-- 🔭 Working on AI/ML projects  
-- 🧠 Strong in Math, Physics, and Coding  
-- ✍️ Published articles on AI & technology  
-- 💻 Building my portfolio for GKS & University Track  
-- 🌱 Focus areas: Machine Learning, Neural Networks, Data Science  
+### 🔍 Project Overview
+This project uses Linear Regression to estimate final marks based on:
+- Study hours
+- Sleep hours
+- Attendance percentage
+- Previous academic performance
+- Stress level
 
-## 🛠 Skills
-- **Languages:** Python, C, Java (basics)  
-- **AI/ML:** Numpy, Pandas, Matplotlib, Scikit-learn  
-- **Tools:** Git, GitHub, Google Colab  
-- **Other:** Problem Solving, Technical Writing  
+The dataset is small but effective for demonstrating:
+- Data analysis
+- Feature selection
+- Model training
+- Evaluation
+- Prediction
+- Visualization
 
-## 📂 Projects
-### 🔹 AI Project 1 — *Your project name*
-Short description  
-👉 [GitHub Repo Link]
+### 🛠️ Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook / Google Colab
 
-### 🔹 AI Project 2 — *Your project name*
-Short description  
-👉 [GitHub Repo Link]
-
-### 🔹 AI Project 3 — *Your project name*
-Short description  
-👉 [GitHub Repo Link]
-
-## 📝 Articles
-- [why i sharted learning ai as a teen and how it changed my view of the future](https://medium.com/@sankeerthvip/why-i-started-learning-ai-as-a-teen-and-how-it-changed-my-view-of-the-future-7016fdc759bc)  
-- [Article 2 Title](link)  
-- [Article 3 Title](link)  
-
-## 🎯 Current Goals
-- Complete AI/ML certifications  
-- Build more AI projects  
-- Strengthen portfolio for GKS University Track  
-
-## 🌐 Connect With Me
-- **LinkedIn:** link coming soon 
-- **Medium:**  https://medium.com/@sankeerthvip 
-- **GitHub:** You’re already here 😄  
-
-Thanks for visiting! 🚀
+### 📁 Files Included
