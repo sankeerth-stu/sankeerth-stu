@@ -28,7 +28,7 @@ Short description
 👉 [GitHub Repo Link]
 
 ## 📝 Articles
-- [Article 1 Title](link)  
+- [why i sharted learning ai as a teen and how it changed my view of the future](https://medium.com/@sankeerthvip/why-i-started-learning-ai-as-a-teen-and-how-it-changed-my-view-of-the-future-7016fdc759bc)  
 - [Article 2 Title](link)  
 - [Article 3 Title](link)  
 
