@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Sankeerth  
-Aspiring  student | CSE/EEE (systems track) Candidate | Building projects & writing about technology | Startup soon
+Aspiring student | future CSE/EEE (systems & networks track) Candidate | Building projects & writing about technology | Startup soon
 
 ## 🚀 About Me
 - 🔭 Working on HPC projects  
 - 🧠 Strong in Math, Physics, and Coding  
 - ✍️ Published articles on AI & systems that run the technology    
-- 🌱 Focus areas: netwoking systems,LAB intern,startup plan and HPC
+- 🌱 Focus areas: networking systems, LAB intern, startup plan and HPC
 
 ## 🛠️ Skills & Technical Proficiency
 
@@ -19,18 +19,23 @@ Aspiring  student | CSE/EEE (systems track) Candidate | Building projects & writ
 
 ### 👥 Leadership & Initiative
 * **Project Management:** Founded and managed a community club of 27 members at age 14, demonstrating early-stage leadership, organization, and communication skills.
-* 
+
+## 📂 research projects
+### 🔹 research 1 — *Empirical Evaluation of Dynamic Task Allocation 
+and Topological Reliability in Resource-Constrained ESP8266 Mesh Networks
+👉 [https://github.com/sankeerth-stu/Evaluation-of-Dynamic-Task-Allocation-and-Reliability-in-Resource-Constrained-ESP8266-Mesh-Networks]
+
 ## 📂 Projects
-### 🔹 AI Project 1 — *energy consumption predictor*  
+### 🔹 Project 1 — *energy consumption predictor*  
 👉 [https://github.com/sankeerth-stu/sankeerth-stu/tree/Energy-consumption-predictor]
 
-### 🔹 AI Project 2 — *Ai student performance predictor* 
+### 🔹 Project 2 — *Ai student performance predictor* 
 👉 [https://github.com/sankeerth-stu/sankeerth-stu/tree/Ai-student-performance-predictor]
 
-### 🔹 AI Project 3 — *Ai chatbot* 
+### 🔹 Project 3 — *Ai chatbot* 
 👉 [https://github.com/sankeerth-stu/sankeerth-stu/tree/Ai-chatbot]
 
-### 🔹 AI Project 4 - *Ai career adviser*
+### 🔹 Project 4 - *Ai career adviser*
 👉 .[https://github.com/sankeerth-stu/sankeerth-stu/tree/Ai-career-adviser].
 
 ## 📝 Articles
@@ -41,15 +46,15 @@ Aspiring  student | CSE/EEE (systems track) Candidate | Building projects & writ
 ## 🎯 Current Goals
 
 ### 📅 Short-Term (Next 2 Months)
-* **Academic Baseline:** get 1500+ in SAT,learn college courses from MIT OWF.
+* **Academic Baseline:** learn college courses from MIT OWF.
 * **Systems Engineering:** Build the multi-node microcontroller computing cluster, log latency/thermal data, and push the source code here.
 
 ### 🎓 Medium-Term (Next 6–12 Months)
 * **Admissions:** Finalize and submit the undergraduate application portfolio.
-* **Primary Target:** Secure admission into **KAIST** for Computer Science / Hardware Engineering.
+* **Primary Target:** Secure admission into **KAIST** for Computer Science(systems & networks concentration).
 
 ### 🔮 Long-Term Vision
-* **Advanced Research:** Join Advanced networking lab.
+* **Advanced Research:** Join Advanced networking lab at KAIST for heterogeneous HPCs research.
 * **Deep-Tech Entrepreneurship:** Found a startup focused on embedded systems, hardware innovation, and distributed computing.
 ## 🌐 Connect With Me
 - **LinkedIn:** link coming soon 
